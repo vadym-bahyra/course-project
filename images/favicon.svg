@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Смак Італії</title>
+  <rect width="64" height="64" rx="14" fill="#121618"/>
+  <path d="M13 16 Q32 5 51 16 L32 56 Z" fill="#fac564"/>
+  <path d="M13 16 Q32 5 51 16" fill="none" stroke="#cf8739" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="26" cy="24" r="4" fill="#b93d32"/>
+  <circle cx="39" cy="24" r="4" fill="#b93d32"/>
+  <circle cx="32" cy="39" r="4" fill="#b93d32"/>
+  <path d="M23 33 Q18 28 23 27 Q28 28 23 33 M35 32 Q35 27 40 30 Q40 35 35 32" fill="#467b43"/>
+</svg>
